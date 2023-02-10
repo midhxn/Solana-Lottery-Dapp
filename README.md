@@ -6,6 +6,5 @@ In a Solana Lottery DApp, users can purchase lottery tickets using Solana's nati
 
 The Solana Lottery DApp offers a number of advantages over traditional lotteries, including increased security and fairness, as the results of the lottery are recorded on the blockchain and can be audited at any time. Additionally, the decentralized nature of the Solana blockchain ensures that the lottery is accessible to users from all over the world, as it operates on a borderless, decentralized network.
 
-Overall, the Solana Lottery DApp provides a new and innovative way for users to participate in lottery games, offering increased security, fairness, and accessibility compared to traditional lotteries.
 
 

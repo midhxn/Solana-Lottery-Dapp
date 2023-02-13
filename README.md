@@ -1,4 +1,4 @@
-## SOLANA LOTTERY DAPP
+### SOLANA LOTTERY DAPP
 
 A Solana Lottery DApp is a decentralized application built on the Solana blockchain platform that allows users to participate in lottery games. The use of the Solana blockchain provides a fast and efficient platform for the creation and execution of lottery games, offering users near-instant transaction processing times.
 

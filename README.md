@@ -9,6 +9,10 @@ The Solana Lottery DApp offers a number of advantages over traditional lotteries
 ### Build Using
 
 HardHat
+Solana
+Reactjs
+TailwindCSS
+
 
 
 
